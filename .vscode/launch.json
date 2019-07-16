@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordFrequencies",
+            "request": "launch",
+            "mainClass": "WordFrequencies",
+            "projectName": "RandomStory"
+        }
+    ]
+}
