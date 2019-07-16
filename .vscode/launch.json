@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CharactersInPlay",
+            "request": "launch",
+            "mainClass": "CharactersInPlay",
+            "projectName": "RandomStory"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WordFrequencies",
             "request": "launch",
             "mainClass": "WordFrequencies",
